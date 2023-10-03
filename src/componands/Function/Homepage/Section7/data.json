@@ -1,0 +1,80 @@
+[
+  {
+    "first_name": "Jay",
+    "last_name": "Smith",
+    "logo": "https://cdn.careerist.com/public/constructor-assets/img/instructors-logos/jay-smith.svg",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1669989677013/instructorsphoto-1669989676997.png",
+    "description": "IT professional with 30+ years of broad experience at IBM, Deloitte, and CBS",
+    "moreInfoLink": "#jay-smith"
+  },
+  {
+    "first_name": "Chad",
+    "last_name": "Perkins",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1682070346453/instructorsphoto-1682070346430.png",
+    "description": "Linux System Administrator at Garmin with 10+ years of Sr. Systems Engineering experience",
+    "moreInfoLink": "#chad-perkins"
+  },
+  {
+    "first_name": "Keith",
+    "last_name": "Barth",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1682070399164/instructorsphoto-1682070399147.png",
+    "description": "Lead Technical Analyst with 25+ years of experience in the field and 30+ years in teaching",
+    "moreInfoLink": "#keith-barth"
+  },
+  {
+    "first_name": "Patrick",
+    "last_name": "Siebenthal",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1651667850655/instructorsphoto-1651667850653.webp",
+    "description": "QA Engineer with 6+ years of experience at Facebook (Meta), Google, and Intel",
+    "moreInfoLink": "#patrick-siebenthal"
+  },
+  {
+    "first_name": "Maria",
+    "last_name": "Navarrete",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1653290508969/instructorsphoto-1653290508945.webp",
+    "description": "QA professional with 14 years of experience at FluorDaniel, Xerox, and Deltek Systems",
+    "moreInfoLink": "#maria-navarrete"
+  },
+  {
+    "first_name": "Lana",
+    "last_name": "Levinsohn",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1663317857231/instructorsphoto-1663317857218.webp",
+    "description": "Sr. Software Developer in Test with 8+ years of Silicon Valley experience in companies like Reddit",
+    "moreInfoLink": "#lana-levinsohn"
+  },
+  {
+    "first_name": "Natalia",
+    "last_name": "Zahoor",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1669719118555/instructorsphoto-1669719118536.png",
+    "description": "QA Manager with over a decade of experience working for companies like Apple and Intel",
+    "moreInfoLink": "#natalia-zahoor"
+  },
+  {
+    "first_name": "Max",
+    "last_name": "Glubochansky",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1651667683209/instructorsphoto-1651667683205.webp",
+    "description": "QA professional with 10+ years of experience at Apple, Intel, Silicon Valley companies",
+    "moreInfoLink": "#max-glubochansky"
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Parkanskiy",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1679991004665/instructorsphoto-1679991004661.webp",
+    "description": "QA Engineer with extensive experience at Indeed.com and Sure App",
+    "moreInfoLink": "#michael-parkanskiy"
+  },
+  {
+    "first_name": "Charles",
+    "last_name": "Sammons",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1651667762866/instructorsphoto-1651667762862.webp",
+    "description": "Charlie brings over 15 years of experience as a Senior Field Architect to Careerist, plus extensive knowledge of sales engineering",
+    "moreInfoLink": "#charles-sammons"
+  },
+  {
+    "first_name": "Nader",
+    "last_name": "Rashad",
+    "thumbnail": "https://cdn.careerist.com/uploads/landings/instructorsPhoto/1682070223957/instructorsphoto-1682070223910.png",
+    "description": "Senior Sales Engineer at Kofax with 22 years of experience in the industry",
+    "moreInfoLink": "#nader-rashad"
+  }
+]

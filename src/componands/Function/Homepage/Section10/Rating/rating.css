@@ -1,0 +1,19 @@
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.star {
+  margin-right: 2px;
+}
+
+.filled {
+  color: rgb(255, 115, 0);
+  font-size: 40px;
+}
+
+.empty {
+  color: rgb(255, 115, 0);
+  opacity: 0.6;
+  font-size: 40px;
+}

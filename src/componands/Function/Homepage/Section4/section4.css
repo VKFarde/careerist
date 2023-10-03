@@ -1,0 +1,77 @@
+/* section4.css */
+
+.section4 {
+  background-color: #f2f2f2;
+  padding: 20px;
+  max-width: 100%;
+}
+
+.section4-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 85%;
+  margin: 0 auto;
+  margin-left: 120px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: calc(33.33% - 20px);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  background-color: #000000;
+  color: #f2f2f2;
+}
+.card span :hover {
+  color: #f2f2f2;
+}
+
+.card img {
+  width: 30%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.card h2 {
+  font-size: 20px;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.card h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.card div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card span {
+  font-size: 14px;
+  color: #555;
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: calc(50% - 20px);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .card {
+    width: 100%;
+  }
+}

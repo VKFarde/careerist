@@ -1,0 +1,44 @@
+// scondfootor.scss
+
+.scondfooter {
+  background-color: #18181b;
+  padding: 20px;
+  color: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+
+  div {
+    margin-bottom: 10px;
+    margin-left: 40px;
+  }
+
+  h3 {
+    font-size: 16px;
+    margin: 0;
+  }
+
+  .seond-menu {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    div {
+      margin-right: 40px;
+    }
+  }
+
+  h4 {
+    font-size: 14px;
+    margin: 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: #ffffff;
+
+    &:hover {
+      text-decoration: underline;
+      color: #8e8e8e;
+    }
+  }
+}

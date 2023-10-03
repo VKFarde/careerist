@@ -1,0 +1,83 @@
+/* section9.css */
+
+.section9 {
+  background-color: #f2f2f2;
+  padding: 20px;
+  min-width: 100%;
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.section9-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  min-width: 90%;
+  gap: 20px;
+}
+
+.section9-card {
+  background-color: #e4e4e4;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  padding-left: 30px;
+  margin-top: 30px;
+  width: 25%;
+  height: 250px;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.308);
+  transition: background-color 0.3s ease;
+}
+
+.section9-card:hover {
+  background-color: #333;
+}
+
+.section9-card:hover .section9-card-text h2,
+.section9-card:hover .section9-card-param p {
+  color: #fff;
+}
+
+.section9-card-img-text {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.section9-card-img {
+  width: 70px;
+  height: 70px;
+  margin-right: 10px;
+}
+
+.section9-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.section9-card-text h2 {
+  margin: 0;
+  margin-left: 20px;
+  font-size: 25px;
+  transition: color 0.3s ease;
+}
+
+.section9-card-param p {
+  font-size: 20px;
+  color: #777;
+  text-align: left;
+  transition: color 0.3s ease;
+}
+
+.section9-heading {
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 140px;
+  padding: 20px;
+  margin-bottom: 20px;
+}

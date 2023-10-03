@@ -1,0 +1,26 @@
+.footor-breack-line {
+  background-color: #18181b;
+  height: 10px;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.footor-line {
+  border: 1px solid #c1bfbf;
+  border-radius: 10px;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 3px #d6d6d6, 0 0 6px #d6d6d6, 0 0 9px #919191,
+      0 0 12px #919191s;
+  }
+
+  to {
+    box-shadow: 0 0 6px #d6d6d6, 0 0 9px #18181b, 0 0 12px #18181b,
+      0 0 15px #18181b;
+  }
+}

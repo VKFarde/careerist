@@ -1,0 +1,48 @@
+.section3 {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  max-width: 100%;
+  background-color: #f2f2f2;
+  justify-content: center;
+}
+
+.section3-container {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 55px;
+  margin-bottom: 4.5px;
+  background-color: #d1cdcd;
+  border-radius: 25px 0 0 25px;
+}
+
+.section3-h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #292b2c;
+  text-align: start;
+}
+.section3-h1 h1 {
+  margin: 0px;
+}
+
+.section3-param {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+.section3-img {
+  padding: 0px;
+  max-width: 35%;
+}
+
+.section3-img img {
+  width: 100%;
+  height: auto;
+  border-radius: 0px 25px 25px 0px;
+}

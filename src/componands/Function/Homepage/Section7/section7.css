@@ -1,0 +1,113 @@
+.section7 {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.section7-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.section7-card {
+  background-color: #b9b9b9;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.29);
+  padding: 19px;
+  min-width: 285px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: background-color 1s ease;
+  margin: 0 0 10px 0;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.section7-card-container {
+  display: flex;
+  flex-direction: row;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  width: 1200px;
+  justify-content: space-between;
+  gap: 40px;
+  height: 100%;
+}
+
+.section7-card-heading h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.section7-card-heading h3 {
+  font-size: 12px;
+  color: #666;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.section7-card-img img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.section7-card-img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.section7-card-span {
+  font-size: 14px;
+  color: #666;
+  text-align: left;
+}
+
+.section7-preview button,
+.section7-next button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  color: #666;
+  transition: color 0.3s ease;
+}
+
+.section7-preview button:hover,
+.section7-next button:hover {
+  color: #000;
+}
+
+.section7-card:hover {
+  background-color: #000;
+  color: #f2f2f2;
+}
+
+.section7-preview button:focus,
+.section7-next button:focus,
+.section7-card:focus {
+  outline: none;
+}
+
+.section7-preview:hover,
+.section7-next:hover {
+  border-radius: 50%;
+  border: 2px solid #000;
+  padding: 10px;
+}
+.section7-preview,
+.section7-next {
+  transition: border 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .section7-card-container {
+    width: 100%;
+  }
+}

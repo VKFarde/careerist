@@ -1,0 +1,76 @@
+.section8 {
+  background-color: #f1f1f1;
+  padding: 20px;
+  width: 100%; /* Adjust as needed */
+  overflow-x: hidden;
+}
+
+.section8-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0 auto;
+}
+.section8-con {
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.section8-con-group1,
+.section8-con-group3,
+.section8-con-group5,
+.section8-con-group2,
+.section8-con-group4,
+.section8-con-group6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  overflow: hidden;
+  transition: 1s ease;
+  scroll-behavior: smooth;
+}
+
+.section8-con-first,
+.section8-con-second {
+  min-width: 240px;
+  max-width: 240px;
+  flex-shrink: 0;
+}
+
+.section8-con-first img,
+.section8-con-second img {
+  width: 100%;
+  height: auto;
+}
+
+.section8-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: left;
+  padding: 20px;
+  margin-left: 140px;
+}
+.section8-heading span {
+  font-size: 40px;
+  font-weight: bold;
+}
+.section8-fotoor {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 70%;
+  text-align: left;
+  padding: 20px;
+  margin-left: 140px;
+  margin-bottom: 60px;
+  color: #aaaaaa;
+}

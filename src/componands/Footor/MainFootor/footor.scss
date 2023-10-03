@@ -1,0 +1,95 @@
+.footer {
+  background-color: #18181b;
+  color: #fff;
+  padding: 40px;
+  text-align: left;
+  max-width: 100%;
+}
+
+.footer-container {
+  margin-left: 60px;
+  max-width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 200px;
+}
+
+.footer-img-contact {
+  margin-top: 30px;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.footer-img-contact span {
+  margin-bottom: 10px;
+  svg {
+    margin-right: 15px;
+  }
+}
+
+.footer-img-container {
+  margin-bottom: 20px;
+}
+
+.footer-img-container img {
+  width: 100%;
+}
+.footor-icon {
+  display: flex;
+  width: 100%;
+  gap: 40px;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.footer-menu {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  align-items: flex-start;
+}
+
+.footer-menu div {
+  flex: 1 1 150px;
+}
+
+.footer-menu h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.footer-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-menu li {
+  margin-bottom: 10px;
+}
+
+.footer-menu a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-menu a:hover {
+  color: #007bff;
+}
+
+.footer-menu span {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.footer-menu svg {
+  margin-right: 5px;
+}
