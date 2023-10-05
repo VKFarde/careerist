@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/careerist/static/css/main.93dbf181.css",
+    "main.js": "/careerist/static/js/main.5f399339.js",
+    "static/js/787.bb91197c.chunk.js": "/careerist/static/js/787.bb91197c.chunk.js",
+    "static/media/img.webp": "/careerist/static/media/img.e12a10ee1ac1f86cbee3.webp",
+    "static/media/34.webp": "/careerist/static/media/34.3064a984e85a36053320.webp",
+    "static/media/icon.svg": "/careerist/static/media/icon.67d31d4e79a5e20e3cc6489e60aa62f3.svg",
+    "static/media/2.svg": "/careerist/static/media/2.b36fde2c668670cba9db5d0b3a3afd00.svg",
+    "static/media/Logo.svg": "/careerist/static/media/Logo.63dec7a210698787a31cd69603fd20fd.svg",
+    "static/media/3.svg": "/careerist/static/media/3.fd663e995de88151c9f5292552271092.svg",
+    "static/media/1.svg": "/careerist/static/media/1.13b68fc6ccf8d6cd2c7807e45583cafa.svg",
+    "static/media/4.svg": "/careerist/static/media/4.3d31fd8065a93e42659dcb1236771271.svg",
+    "static/media/6.svg": "/careerist/static/media/6.df123a0de6cec3c518ccf4734b47dbe3.svg",
+    "static/media/qaa.svg": "/careerist/static/media/qaa.3cbc27566228b78a76c7528154943baf.svg",
+    "static/media/9.svg": "/careerist/static/media/9.b3d6ddce490bf5a55a3e0c149fda32de.svg",
+    "static/media/mqa.svg": "/careerist/static/media/mqa.118ff0251c51d115dde72735354a6b0d.svg",
+    "index.html": "/careerist/index.html",
+    "static/media/8.svg": "/careerist/static/media/8.f6bcb114622b092fadf8265d6854e11d.svg",
+    "main.93dbf181.css.map": "/careerist/static/css/main.93dbf181.css.map",
+    "main.5f399339.js.map": "/careerist/static/js/main.5f399339.js.map",
+    "787.bb91197c.chunk.js.map": "/careerist/static/js/787.bb91197c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93dbf181.css",
+    "static/js/main.5f399339.js"
+  ]
+}
