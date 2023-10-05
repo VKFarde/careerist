@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/careerist/static/css/main.93dbf181.css",
-    "main.js": "/careerist/static/js/main.eeed5d1a.js",
+    "main.js": "/careerist/static/js/main.f8ca1fb6.js",
     "static/js/787.bb91197c.chunk.js": "/careerist/static/js/787.bb91197c.chunk.js",
     "static/media/img.webp": "/careerist/static/media/img.e12a10ee1ac1f86cbee3.webp",
     "static/media/34.webp": "/careerist/static/media/34.3064a984e85a36053320.webp",
@@ -18,11 +18,11 @@
     "index.html": "/careerist/index.html",
     "static/media/8.svg": "/careerist/static/media/8.f6bcb114622b092fadf8265d6854e11d.svg",
     "main.93dbf181.css.map": "/careerist/static/css/main.93dbf181.css.map",
-    "main.eeed5d1a.js.map": "/careerist/static/js/main.eeed5d1a.js.map",
+    "main.f8ca1fb6.js.map": "/careerist/static/js/main.f8ca1fb6.js.map",
     "787.bb91197c.chunk.js.map": "/careerist/static/js/787.bb91197c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93dbf181.css",
-    "static/js/main.eeed5d1a.js"
+    "static/js/main.f8ca1fb6.js"
   ]
 }
